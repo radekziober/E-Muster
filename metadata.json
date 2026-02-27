@@ -1,0 +1,5 @@
+{
+  "name": "E-MUSTER System",
+  "description": "Electronic First Article Inspection (FAI) system for manufacturing quality control. Features role-based access (Operator/Manager), dynamic checklists, multi-stage approval workflows, and defect reporting (5W2H).",
+  "requestFramePermissions": []
+}
